@@ -9,5 +9,10 @@
 </head>
 <body>
     <h1 class="fw-bold text-center">galeri</h1>
+    <div class="d-flex">
+        <div><img src="img/791.jpg" class="img-fluid px-2 " alt=""></div>
+        <div><img src="img/791.jpg" class="img-fluid px-2 " alt=""></div>
+        <div><img src="img/791.jpg" class="img-fluid px-2 " alt=""></div>
+    </div>
 </body>
 </html>
