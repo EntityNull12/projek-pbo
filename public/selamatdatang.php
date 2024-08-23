@@ -9,5 +9,7 @@
 </head>
 <body>
     <h1 class="fw-bold text-center">Selamat Datang</h1>
+    <a class="btn btn-primary" href="about.php" role="button">About</a>
+    <a class="btn btn-primary" href="gallery.php" role="button">Galeri</a>
 </body>
 </html>
