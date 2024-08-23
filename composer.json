@@ -1,0 +1,12 @@
+{
+    "name": "enda/projek-pbo2",
+    "authors": [
+        {
+            "name": "enda",
+            "email": "endaadittia@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "5.3.3"
+    }
+}
